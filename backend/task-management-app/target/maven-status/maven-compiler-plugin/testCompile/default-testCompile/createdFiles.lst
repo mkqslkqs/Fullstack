@@ -1,0 +1,4 @@
+com/taskmanagementapp/TaskManagementAppApplicationTests.class
+com/taskmanagementapp/TaskControllerTest.class
+com/taskmanagementapp/AuthControllerTest.class
+com/taskmanagementapp/UserControllerTest.class
